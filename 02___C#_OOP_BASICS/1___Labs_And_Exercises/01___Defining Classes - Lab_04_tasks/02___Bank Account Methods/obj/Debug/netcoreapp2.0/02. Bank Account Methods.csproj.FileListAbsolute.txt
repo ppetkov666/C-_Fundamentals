@@ -1,0 +1,11 @@
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.deps.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.runtimeconfig.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.runtimeconfig.dev.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.dll
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.pdb
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.AssemblyInfoInputs.cache
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.AssemblyInfo.cs
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.dll
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.pdb
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.csprojResolveAssemblyReference.cache

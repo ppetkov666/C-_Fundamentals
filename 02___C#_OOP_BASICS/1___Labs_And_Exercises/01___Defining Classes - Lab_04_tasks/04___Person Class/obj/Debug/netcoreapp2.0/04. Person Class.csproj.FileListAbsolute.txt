@@ -1,0 +1,11 @@
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.deps.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.runtimeconfig.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.runtimeconfig.dev.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.dll
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.pdb
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.AssemblyInfoInputs.cache
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.AssemblyInfo.cs
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.dll
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.pdb

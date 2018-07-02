@@ -1,0 +1,11 @@
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.deps.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.runtimeconfig.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.runtimeconfig.dev.json
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.dll
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.pdb
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.AssemblyInfoInputs.cache
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.AssemblyInfo.cs
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.dll
+F:\VS\GITHUB\C#FUNDAMENTALS\02___C#_OOP_ADVANCED\01___Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.pdb

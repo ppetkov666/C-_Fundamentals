@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\bin\Debug\netcoreapp2.0\03___Test_Client.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\bin\Debug\netcoreapp2.0\03___Test_Client.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\bin\Debug\netcoreapp2.0\03___Test_Client.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\bin\Debug\netcoreapp2.0\03___Test_Client.dll
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\bin\Debug\netcoreapp2.0\03___Test_Client.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\obj\Debug\netcoreapp2.0\03___Test_Client.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\obj\Debug\netcoreapp2.0\03___Test_Client.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\obj\Debug\netcoreapp2.0\03___Test_Client.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\obj\Debug\netcoreapp2.0\03___Test_Client.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\obj\Debug\netcoreapp2.0\03___Test_Client.dll
+F:\VS\GITHUB\03___C#_Fundamentals\02___C#_OOP_BASICS\1.___LABS_EXERCISES\01___Defining Classes - Lab_04_tasks\03___Test Client\obj\Debug\netcoreapp2.0\03___Test_Client.pdb
