@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\bin\Debug\netcoreapp2.0\01.Rhombus_of_Stars.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\bin\Debug\netcoreapp2.0\01.Rhombus_of_Stars.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\bin\Debug\netcoreapp2.0\01.Rhombus_of_Stars.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\bin\Debug\netcoreapp2.0\01.Rhombus_of_Stars.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\bin\Debug\netcoreapp2.0\01.Rhombus_of_Stars.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\obj\Debug\netcoreapp2.0\01.Rhombus_of_Stars.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\obj\Debug\netcoreapp2.0\01.Rhombus_of_Stars.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\obj\Debug\netcoreapp2.0\01.Rhombus_of_Stars.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\obj\Debug\netcoreapp2.0\01.Rhombus_of_Stars.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\obj\Debug\netcoreapp2.0\01.Rhombus_of_Stars.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\01.Rhombus_of_Stars\obj\Debug\netcoreapp2.0\01.Rhombus_of_Stars.pdb

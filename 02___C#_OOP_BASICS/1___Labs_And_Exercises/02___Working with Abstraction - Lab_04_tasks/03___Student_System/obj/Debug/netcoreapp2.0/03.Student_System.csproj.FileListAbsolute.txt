@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\bin\Debug\netcoreapp2.0\03.Student_System.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\bin\Debug\netcoreapp2.0\03.Student_System.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\bin\Debug\netcoreapp2.0\03.Student_System.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\bin\Debug\netcoreapp2.0\03.Student_System.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\bin\Debug\netcoreapp2.0\03.Student_System.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\obj\Debug\netcoreapp2.0\03.Student_System.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\obj\Debug\netcoreapp2.0\03.Student_System.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\obj\Debug\netcoreapp2.0\03.Student_System.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\obj\Debug\netcoreapp2.0\03.Student_System.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\obj\Debug\netcoreapp2.0\03.Student_System.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\03.Student_System\obj\Debug\netcoreapp2.0\03.Student_System.pdb

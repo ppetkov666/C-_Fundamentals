@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\bin\Debug\netcoreapp2.0\02.Point_in_Rectangle.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\bin\Debug\netcoreapp2.0\02.Point_in_Rectangle.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\bin\Debug\netcoreapp2.0\02.Point_in_Rectangle.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\bin\Debug\netcoreapp2.0\02.Point_in_Rectangle.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\bin\Debug\netcoreapp2.0\02.Point_in_Rectangle.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\obj\Debug\netcoreapp2.0\02.Point_in_Rectangle.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\obj\Debug\netcoreapp2.0\02.Point_in_Rectangle.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\obj\Debug\netcoreapp2.0\02.Point_in_Rectangle.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\obj\Debug\netcoreapp2.0\02.Point_in_Rectangle.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\obj\Debug\netcoreapp2.0\02.Point_in_Rectangle.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Lab\02.Point_in_Rectangle\obj\Debug\netcoreapp2.0\02.Point_in_Rectangle.pdb
