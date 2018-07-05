@@ -1,0 +1,10 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\bin\Debug\netcoreapp2.0\01.Raw_Data.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\bin\Debug\netcoreapp2.0\01.Raw_Data.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\bin\Debug\netcoreapp2.0\01.Raw_Data.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\bin\Debug\netcoreapp2.0\01.Raw_Data.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\bin\Debug\netcoreapp2.0\01.Raw_Data.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\obj\Debug\netcoreapp2.0\01.Raw_Data.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\obj\Debug\netcoreapp2.0\01.Raw_Data.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\obj\Debug\netcoreapp2.0\01.Raw_Data.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\obj\Debug\netcoreapp2.0\01.Raw_Data.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\01.Raw_Data\obj\Debug\netcoreapp2.0\01.Raw_Data.pdb

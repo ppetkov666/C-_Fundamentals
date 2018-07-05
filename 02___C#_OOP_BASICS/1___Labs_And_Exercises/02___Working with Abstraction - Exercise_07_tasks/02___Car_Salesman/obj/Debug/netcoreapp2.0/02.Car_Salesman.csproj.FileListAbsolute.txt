@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\bin\Debug\netcoreapp2.0\02.Car_Salesman.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\bin\Debug\netcoreapp2.0\02.Car_Salesman.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\bin\Debug\netcoreapp2.0\02.Car_Salesman.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\bin\Debug\netcoreapp2.0\02.Car_Salesman.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\bin\Debug\netcoreapp2.0\02.Car_Salesman.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\obj\Debug\netcoreapp2.0\02.Car_Salesman.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\obj\Debug\netcoreapp2.0\02.Car_Salesman.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\obj\Debug\netcoreapp2.0\02.Car_Salesman.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\obj\Debug\netcoreapp2.0\02.Car_Salesman.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\obj\Debug\netcoreapp2.0\02.Car_Salesman.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\02___Working with Abstraction - Exercise\02.Car_Salesman\obj\Debug\netcoreapp2.0\02.Car_Salesman.pdb
