@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp2.0\02.Salary.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp2.0\02.Salary.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp2.0\02.Salary.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp2.0\02.Salary.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp2.0\02.Salary.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\02___C#_OOP_BASICS\03___Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.pdb
