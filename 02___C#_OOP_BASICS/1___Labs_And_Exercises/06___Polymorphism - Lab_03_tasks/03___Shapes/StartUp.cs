@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+class StartUp
+{
+    static void Main()
+    {
+        try
+        {
+            var shapes = new List<Shape>();
+            shapes.Add(new Circle(3.5));
+            shapes.Add(new Rectangle(3.5, 1.2));
+            shapes.Add(new Rectangle(1.5, 1.5));
+            shapes.Add(new Rectangle(3.4, 1.5));
+            shapes.Add(new Circle(3.6));
+            foreach (var shape in shapes)
+            {
+                Console.WriteLine(shape.Draw());
+            }
+        }
+        catch (ArgumentOutOfRangeException ex)
+        {
+
+            Console.WriteLine(ex.Message);
+        }
+
+    }
+}
