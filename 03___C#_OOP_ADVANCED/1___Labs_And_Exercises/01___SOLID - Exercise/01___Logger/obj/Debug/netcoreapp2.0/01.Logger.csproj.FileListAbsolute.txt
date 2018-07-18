@@ -1,0 +1,22 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\01___SOLID-Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\bin\Debug\netcoreapp2.0\01.Logger.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\01___SOLID - Exercise\01___Logger\obj\Debug\netcoreapp2.0\01.Logger.pdb
