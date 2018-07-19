@@ -1,0 +1,10 @@
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\bin\Debug\netcoreapp2.0\01_BoxOfT.deps.json
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\bin\Debug\netcoreapp2.0\01_BoxOfT.runtimeconfig.json
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\bin\Debug\netcoreapp2.0\01_BoxOfT.runtimeconfig.dev.json
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\bin\Debug\netcoreapp2.0\01_BoxOfT.dll
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\bin\Debug\netcoreapp2.0\01_BoxOfT.pdb
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\obj\Debug\netcoreapp2.0\01_BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\obj\Debug\netcoreapp2.0\01_BoxOfT.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\obj\Debug\netcoreapp2.0\01_BoxOfT.AssemblyInfo.cs
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\obj\Debug\netcoreapp2.0\01_BoxOfT.dll
+C:\Users\predator\source\repos\02.Generics - Lab\01_BoxOfT\obj\Debug\netcoreapp2.0\01_BoxOfT.pdb
