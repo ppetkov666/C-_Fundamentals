@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\bin\Debug\netcoreapp2.0\02___Array Creator.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\bin\Debug\netcoreapp2.0\02___Array Creator.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\bin\Debug\netcoreapp2.0\02___Array Creator.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\bin\Debug\netcoreapp2.0\02___Array Creator.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\bin\Debug\netcoreapp2.0\02___Array Creator.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\obj\Debug\netcoreapp2.0\02___Array Creator.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\obj\Debug\netcoreapp2.0\02___Array Creator.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\obj\Debug\netcoreapp2.0\02___Array Creator.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\obj\Debug\netcoreapp2.0\02___Array Creator.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\obj\Debug\netcoreapp2.0\02___Array Creator.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Lab_03_tasks\02___Array Creator\obj\Debug\netcoreapp2.0\02___Array Creator.pdb

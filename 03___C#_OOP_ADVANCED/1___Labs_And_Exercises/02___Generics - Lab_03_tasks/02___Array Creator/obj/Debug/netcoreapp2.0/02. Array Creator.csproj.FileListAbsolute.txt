@@ -1,0 +1,11 @@
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.0\02. Array Creator.deps.json
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.0\02. Array Creator.runtimeconfig.json
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.0\02. Array Creator.runtimeconfig.dev.json
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.0\02. Array Creator.dll
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.0\02. Array Creator.pdb
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.0\02. Array Creator.csprojResolveAssemblyReference.cache
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.0\02. Array Creator.csproj.CoreCompileInputs.cache
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.0\02. Array Creator.AssemblyInfoInputs.cache
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.0\02. Array Creator.AssemblyInfo.cs
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.0\02. Array Creator.dll
+C:\Users\predator\source\repos\02.Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.0\02. Array Creator.pdb
