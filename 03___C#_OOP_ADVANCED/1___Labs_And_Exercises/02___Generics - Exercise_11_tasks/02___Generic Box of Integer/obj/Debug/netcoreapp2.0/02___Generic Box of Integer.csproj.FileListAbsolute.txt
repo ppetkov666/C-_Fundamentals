@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\bin\Debug\netcoreapp2.0\02___Generic Box of Integer.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\bin\Debug\netcoreapp2.0\02___Generic Box of Integer.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\bin\Debug\netcoreapp2.0\02___Generic Box of Integer.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\bin\Debug\netcoreapp2.0\02___Generic Box of Integer.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\bin\Debug\netcoreapp2.0\02___Generic Box of Integer.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\obj\Debug\netcoreapp2.0\02___Generic Box of Integer.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\obj\Debug\netcoreapp2.0\02___Generic Box of Integer.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\obj\Debug\netcoreapp2.0\02___Generic Box of Integer.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\obj\Debug\netcoreapp2.0\02___Generic Box of Integer.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\obj\Debug\netcoreapp2.0\02___Generic Box of Integer.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\02___Generic Box of Integer\obj\Debug\netcoreapp2.0\02___Generic Box of Integer.pdb
