@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01___Generic Box of String"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02___Generic Box of Integer", "02___Generic Box of Integer\02___Generic Box of Integer.csproj", "{67A504F5-6FA6-4F39-AFAA-877E3876D27A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03___Gen. Swap Method String", "03___Gen. Swap Method String\03___Gen. Swap Method String.csproj", "{10E419B0-3F47-42CF-93A0-505A21383C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04___Generic Swap Method Int", "04___Generic Swap Method Int\04___Generic Swap Method Int.csproj", "{FAA02570-1894-4C85-8A02-4F29A7016FF2}"
+EndProject
 
 
 Global
