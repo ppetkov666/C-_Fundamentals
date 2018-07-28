@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\02___Generics - Exercise_11_tasks\\02___Generic Box of Integer\\02___Generic Box of Integer.csproj",
-      "projectName": "02___Generic Box of Integer",
-      "projectPath": "F:\\VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\02___Generics - Exercise_11_tasks\\02___Generic Box of Integer\\02___Generic Box of Integer.csproj",
+      "projectUniqueName": "F:\\VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\02___Generics - Exercise_11_tasks\\04___Generic Swap Method Int\\04___Generic Swap Method Int.csproj",
+      "projectName": "04___Generic Swap Method Int",
+      "projectPath": "F:\\VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\02___Generics - Exercise_11_tasks\\04___Generic Swap Method Int\\04___Generic Swap Method Int.csproj",
       "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-      "outputPath": "F:\\VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\02___Generics - Exercise_11_tasks\\02___Generic Box of Integer\\obj\\",
+      "outputPath": "F:\\VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\02___Generics - Exercise_11_tasks\\04___Generic Swap Method Int\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

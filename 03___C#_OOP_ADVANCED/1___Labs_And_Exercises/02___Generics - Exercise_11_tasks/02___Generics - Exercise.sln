@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03___Gen. Swap Method Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04___Generic Swap Method Int", "04___Generic Swap Method Int\04___Generic Swap Method Int.csproj", "{FAA02570-1894-4C85-8A02-4F29A7016FF2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05___G-c Count Method String", "05___G-c Count Method String\05___G-c Count Method String.csproj", "{3166A944-0EAF-4B46-8D79-A0C2478DFFCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06___G-c Count Method Double", "06___G-c Count Method Double\06___G-c Count Method Double.csproj", "{8941288A-6310-4590-BE11-B65E7EBF1C9B}"
+EndProject
 
 
 Global
