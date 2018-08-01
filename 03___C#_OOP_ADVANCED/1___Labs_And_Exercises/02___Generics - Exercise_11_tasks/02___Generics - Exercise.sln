@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05___G-c Count Method Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06___G-c Count Method Double", "06___G-c Count Method Double\06___G-c Count Method Double.csproj", "{8941288A-6310-4590-BE11-B65E7EBF1C9B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07___Custom List", "07___Custom List\07___Custom List.csproj", "{5D5BB608-9CF3-438A-BBC8-D64D215DA61B}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08___Custom List Sorter", "08___Custom List Sorter\08___Custom List Sorter.csproj", "{27A82CD5-E2FB-4B6E-8C0B-5A75197E8615}"
 EndProject
 
