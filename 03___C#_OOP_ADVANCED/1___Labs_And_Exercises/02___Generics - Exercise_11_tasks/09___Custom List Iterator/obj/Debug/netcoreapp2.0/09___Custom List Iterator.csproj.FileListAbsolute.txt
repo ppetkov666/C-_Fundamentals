@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\bin\Debug\netcoreapp2.0\09___Custom List Iterator.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\bin\Debug\netcoreapp2.0\09___Custom List Iterator.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\bin\Debug\netcoreapp2.0\09___Custom List Iterator.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\bin\Debug\netcoreapp2.0\09___Custom List Iterator.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\bin\Debug\netcoreapp2.0\09___Custom List Iterator.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\obj\Debug\netcoreapp2.0\09___Custom List Iterator.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\obj\Debug\netcoreapp2.0\09___Custom List Iterator.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\obj\Debug\netcoreapp2.0\09___Custom List Iterator.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\obj\Debug\netcoreapp2.0\09___Custom List Iterator.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\obj\Debug\netcoreapp2.0\09___Custom List Iterator.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\02___Generics - Exercise_11_tasks\09___Custom List Iterator\obj\Debug\netcoreapp2.0\09___Custom List Iterator.pdb

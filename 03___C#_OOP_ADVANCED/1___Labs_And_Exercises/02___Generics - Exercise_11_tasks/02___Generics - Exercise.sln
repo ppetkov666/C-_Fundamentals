@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07___Custom List", "07___Cu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08___Custom List Sorter", "08___Custom List Sorter\08___Custom List Sorter.csproj", "{27A82CD5-E2FB-4B6E-8C0B-5A75197E8615}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09___Custom List Iterator", "09___Custom List Iterator\09___Custom List Iterator.csproj", "{D5479A96-0686-4BEC-B258-D793AD946616}"
+EndProject
 
 
 Global
