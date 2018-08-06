@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08___Custom List Sorter", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09___Custom List Iterator", "09___Custom List Iterator\09___Custom List Iterator.csproj", "{D5479A96-0686-4BEC-B258-D793AD946616}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10___Tuple", "10___Tuple\10___Tuple.csproj", "{7CD33548-5900-45A2-9B51-3BA5FCB272FA}"
+EndProject
 
 
 Global
