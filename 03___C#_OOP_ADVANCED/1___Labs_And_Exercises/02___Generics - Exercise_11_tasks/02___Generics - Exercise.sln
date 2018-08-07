@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09___Custom List Iterator",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10___Tuple", "10___Tuple\10___Tuple.csproj", "{7CD33548-5900-45A2-9B51-3BA5FCB272FA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11___Threeuple", "11___Threeuple\11___Threeuple.csproj", "{1C7C6A64-668B-4D72-89DD-4411369A7FC4}"
+EndProject
 
 
 Global
