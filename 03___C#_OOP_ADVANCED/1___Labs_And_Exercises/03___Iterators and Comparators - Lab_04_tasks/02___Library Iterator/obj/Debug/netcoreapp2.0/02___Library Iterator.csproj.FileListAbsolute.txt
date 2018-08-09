@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\bin\Debug\netcoreapp2.0\02___Library Iterator.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\bin\Debug\netcoreapp2.0\02___Library Iterator.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\bin\Debug\netcoreapp2.0\02___Library Iterator.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\bin\Debug\netcoreapp2.0\02___Library Iterator.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\bin\Debug\netcoreapp2.0\02___Library Iterator.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\obj\Debug\netcoreapp2.0\02___Library Iterator.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\obj\Debug\netcoreapp2.0\02___Library Iterator.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\obj\Debug\netcoreapp2.0\02___Library Iterator.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\obj\Debug\netcoreapp2.0\02___Library Iterator.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\obj\Debug\netcoreapp2.0\02___Library Iterator.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERSIZES\03___Iterators and Comparators - Lab_04_tasks\02___Library Iterator\obj\Debug\netcoreapp2.0\02___Library Iterator.pdb

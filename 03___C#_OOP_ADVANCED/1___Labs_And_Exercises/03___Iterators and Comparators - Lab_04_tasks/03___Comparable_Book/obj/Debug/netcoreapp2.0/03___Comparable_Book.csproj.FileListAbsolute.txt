@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\bin\Debug\netcoreapp2.0\03___Comparable_Book.deps.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\bin\Debug\netcoreapp2.0\03___Comparable_Book.runtimeconfig.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\bin\Debug\netcoreapp2.0\03___Comparable_Book.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\bin\Debug\netcoreapp2.0\03___Comparable_Book.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\bin\Debug\netcoreapp2.0\03___Comparable_Book.pdb
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\obj\Debug\netcoreapp2.0\03___Comparable_Book.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\obj\Debug\netcoreapp2.0\03___Comparable_Book.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\obj\Debug\netcoreapp2.0\03___Comparable_Book.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\obj\Debug\netcoreapp2.0\03___Comparable_Book.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\obj\Debug\netcoreapp2.0\03___Comparable_Book.dll
+F:\VS\GITHUB\03___C#FUNDAMENTALS\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Lab_04_tasks\03___Comparable_Book\obj\Debug\netcoreapp2.0\03___Comparable_Book.pdb
