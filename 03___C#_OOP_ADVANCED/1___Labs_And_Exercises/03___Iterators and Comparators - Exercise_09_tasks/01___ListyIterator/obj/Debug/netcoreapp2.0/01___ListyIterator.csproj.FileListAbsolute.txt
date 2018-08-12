@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\bin\Debug\netcoreapp2.0\01___ListyIterator.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\bin\Debug\netcoreapp2.0\01___ListyIterator.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\bin\Debug\netcoreapp2.0\01___ListyIterator.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\bin\Debug\netcoreapp2.0\01___ListyIterator.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\bin\Debug\netcoreapp2.0\01___ListyIterator.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\obj\Debug\netcoreapp2.0\01___ListyIterator.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\obj\Debug\netcoreapp2.0\01___ListyIterator.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\obj\Debug\netcoreapp2.0\01___ListyIterator.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\obj\Debug\netcoreapp2.0\01___ListyIterator.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\obj\Debug\netcoreapp2.0\01___ListyIterator.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\01___ListyIterator\obj\Debug\netcoreapp2.0\01___ListyIterator.pdb
