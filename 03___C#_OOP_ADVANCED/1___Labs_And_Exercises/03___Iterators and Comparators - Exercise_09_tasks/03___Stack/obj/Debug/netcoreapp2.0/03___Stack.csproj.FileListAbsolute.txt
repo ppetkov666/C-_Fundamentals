@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\bin\Debug\netcoreapp2.0\03___Stack.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\bin\Debug\netcoreapp2.0\03___Stack.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\bin\Debug\netcoreapp2.0\03___Stack.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\bin\Debug\netcoreapp2.0\03___Stack.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\bin\Debug\netcoreapp2.0\03___Stack.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\obj\Debug\netcoreapp2.0\03___Stack.csprojAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\obj\Debug\netcoreapp2.0\03___Stack.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\obj\Debug\netcoreapp2.0\03___Stack.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\obj\Debug\netcoreapp2.0\03___Stack.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\obj\Debug\netcoreapp2.0\03___Stack.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\03___Stack\obj\Debug\netcoreapp2.0\03___Stack.pdb

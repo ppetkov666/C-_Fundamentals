@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01___ListyIterator", "01___ListyIterator\01___ListyIterator.csproj", "{3603E99A-562C-477D-9E74-2AE285910FEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02___Collection", "02___Collection\02___Collection.csproj", "{97BB3DD1-68B6-481D-B1DE-B49D6E602653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03___Stack", "03___Stack\03___Stack.csproj", "{6E4B581B-1DCB-4365-9873-88414A91E530}"
+EndProject
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
