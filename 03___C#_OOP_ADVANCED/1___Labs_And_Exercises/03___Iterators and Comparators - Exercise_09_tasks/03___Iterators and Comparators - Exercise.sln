@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02___Collection", "02___Col
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03___Stack", "03___Stack\03___Stack.csproj", "{6E4B581B-1DCB-4365-9873-88414A91E530}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04___Froggy", "04___Froggy\04___Froggy.csproj", "{98AE4F04-4FC9-40DD-95F6-FF7E9D5ED97C}"
+EndProject
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

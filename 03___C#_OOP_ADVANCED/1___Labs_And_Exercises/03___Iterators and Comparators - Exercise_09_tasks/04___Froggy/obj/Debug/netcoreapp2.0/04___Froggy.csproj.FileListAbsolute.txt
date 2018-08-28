@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\bin\Debug\netcoreapp2.0\04___Froggy.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\bin\Debug\netcoreapp2.0\04___Froggy.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\bin\Debug\netcoreapp2.0\04___Froggy.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\bin\Debug\netcoreapp2.0\04___Froggy.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\bin\Debug\netcoreapp2.0\04___Froggy.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\obj\Debug\netcoreapp2.0\04___Froggy.csprojAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\obj\Debug\netcoreapp2.0\04___Froggy.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\obj\Debug\netcoreapp2.0\04___Froggy.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\obj\Debug\netcoreapp2.0\04___Froggy.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\obj\Debug\netcoreapp2.0\04___Froggy.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\04___Froggy\obj\Debug\netcoreapp2.0\04___Froggy.pdb
