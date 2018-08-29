@@ -1,0 +1,11 @@
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\bin\Debug\netcoreapp2.0\05___Comparing Objects.deps.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\bin\Debug\netcoreapp2.0\05___Comparing Objects.runtimeconfig.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\bin\Debug\netcoreapp2.0\05___Comparing Objects.runtimeconfig.dev.json
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\bin\Debug\netcoreapp2.0\05___Comparing Objects.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\bin\Debug\netcoreapp2.0\05___Comparing Objects.pdb
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\obj\Debug\netcoreapp2.0\05___Comparing Objects.csprojAssemblyReference.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\obj\Debug\netcoreapp2.0\05___Comparing Objects.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\obj\Debug\netcoreapp2.0\05___Comparing Objects.AssemblyInfoInputs.cache
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\obj\Debug\netcoreapp2.0\05___Comparing Objects.AssemblyInfo.cs
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\obj\Debug\netcoreapp2.0\05___Comparing Objects.dll
+F:\VS\GITHUB\03___C#_Fundamentals\03___C#_OOP_ADVANCED\1.___LABS_EXERCISES\03___Iterators and Comparators - Exercise_09_tasks\05___Comparing Objects\obj\Debug\netcoreapp2.0\05___Comparing Objects.pdb

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03___Stack", "03___Stack\03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04___Froggy", "04___Froggy\04___Froggy.csproj", "{98AE4F04-4FC9-40DD-95F6-FF7E9D5ED97C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05___Comparing Objects", "05___Comparing Objects\05___Comparing Objects.csproj", "{5A95D59E-E768-4D85-A2E2-B157452E6ECA}"
+EndProject
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
