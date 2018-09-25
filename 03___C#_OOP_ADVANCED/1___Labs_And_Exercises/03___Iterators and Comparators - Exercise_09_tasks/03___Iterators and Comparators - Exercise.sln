@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05___Comparing Objects", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06___Strategy Pattern", "06___Strategy Pattern\06___Strategy Pattern.csproj", "{2D360C99-FF10-42D8-970D-21501E243074}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07___Equality Logic", "07___Equality Logic\07___Equality Logic.csproj", "{96574224-D7DF-4743-9179-F111CF1A1B02}"
+EndProject
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
