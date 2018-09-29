@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07___Equality Logic", "07__
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08___Pet Clinic", "08___Pet Clinic\08___Pet Clinic.csproj", "{2A4A936A-A774-4E33-AD55-320CE080850C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09___Linked List Traversal", "09___Linked List Traversal\09___Linked List Traversal.csproj", "{EE56C0DF-B698-4AAD-9D24-8E81D0C11333}"
+EndProject
 
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
