@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01___Stealer", "01___Steale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02___High Quality Mistakes", "02___High Quality Mistakes\02___High Quality Mistakes.csproj", "{C74EDE45-A9F0-42D3-9FB1-28081557F453}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03___Mission Private", "03___Mission Private\03___Mission Private.csproj", "{D9662A37-0E26-430F-AD38-B02D2A823246}"
+EndProject
+
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

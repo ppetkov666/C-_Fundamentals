@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Lab_06_tasks\\02___High Quality Mistakes\\02___High Quality Mistakes.csproj",
-      "projectName": "02___High Quality Mistakes",
-      "projectPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Lab_06_tasks\\02___High Quality Mistakes\\02___High Quality Mistakes.csproj",
+      "projectUniqueName": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Lab_06_tasks\\03___Mission Private\\03___Mission Private.csproj",
+      "projectName": "03___Mission Private",
+      "projectPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Lab_06_tasks\\03___Mission Private\\03___Mission Private.csproj",
       "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-      "outputPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Lab_06_tasks\\02___High Quality Mistakes\\obj\\",
+      "outputPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Lab_06_tasks\\03___Mission Private\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
