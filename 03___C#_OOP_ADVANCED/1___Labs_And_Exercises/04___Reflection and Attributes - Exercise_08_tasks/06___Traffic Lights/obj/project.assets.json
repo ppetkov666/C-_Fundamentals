@@ -520,10 +520,10 @@
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
         "LICENSE.TXT",
-        "Microsoft.NETCore.Platforms.2.0.0.nupkg.sha512",
-        "Microsoft.NETCore.Platforms.nuspec",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
+        "microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+        "microsoft.netcore.platforms.nuspec",
         "runtime.json",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\06___VS\\GITHUB\\03___C#_Fundamentals\\03___C#_OOP_ADVANCED\\1.___LABS_EXERCISES\\04___Reflection and Attributes - Exercise_08_tasks\\02___Black Box Integer\\02___Black Box Integer.csproj",
-      "projectName": "02___Black Box Integer",
-      "projectPath": "F:\\06___VS\\GITHUB\\03___C#_Fundamentals\\03___C#_OOP_ADVANCED\\1.___LABS_EXERCISES\\04___Reflection and Attributes - Exercise_08_tasks\\02___Black Box Integer\\02___Black Box Integer.csproj",
+      "projectUniqueName": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Exercise_08_tasks\\06___Traffic Lights\\06___Traffic Lights.csproj",
+      "projectName": "06___Traffic Lights",
+      "projectPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Exercise_08_tasks\\06___Traffic Lights\\06___Traffic Lights.csproj",
       "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-      "outputPath": "F:\\06___VS\\GITHUB\\03___C#_Fundamentals\\03___C#_OOP_ADVANCED\\1.___LABS_EXERCISES\\04___Reflection and Attributes - Exercise_08_tasks\\02___Black Box Integer\\obj\\",
+      "outputPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Exercise_08_tasks\\06___Traffic Lights\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
