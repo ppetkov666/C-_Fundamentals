@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01___Harvesting Fields", "01___Harvesting Fields\01___Harvesting Fields.csproj", "{D150B482-46EB-4963-A135-6DEDDD2DDA7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01___Harvesting Fields", "01___Harvesting Fields\01___Harvesting Fields.csproj", "{D150B482-46EB-4963-A135-6DEDDD2DDA7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02___Black Box Integer", "02___Black Box Integer\02___Black Box Integer.csproj", "{5D164A92-8AE1-4FC0-9651-741BCB5E5858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01___HarvFieldsV2", "01___HarvFieldsV2\01___HarvFieldsV2.csproj", "{A6CF297F-68B4-4153-9FBF-1EC842355135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03___BarrackWars_F", "03___BarrackWars_F\03___BarrackWars_F.csproj", "{C869B8F5-74AA-480C-AD13-B1E1E3C86FC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02___Black Box Integer", "02___Black Box Integer\02___Black Box Integer.csproj", "{5D164A92-8AE1-4FC0-9651-741BCB5E5858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04___BarrackWars", "04___BarrackWars\04___BarrackWars.csproj", "{97C547F3-B460-43AE-8C79-299F2889D326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03___BarrackWars_F", "03___BarrackWars_F\03___BarrackWars_F.csproj", "{C869B8F5-74AA-480C-AD13-B1E1E3C86FC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05___BarrackWars_Return", "05___BarrackWars_Return\05___BarrackWars_Return.csproj", "{A9ACD595-3E67-4945-8CE5-E047CB8FF66F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04___BarrackWars", "04___BarrackWars\04___BarrackWars.csproj", "{97C547F3-B460-43AE-8C79-299F2889D326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06___Traffic Lights", "06___Traffic Lights\06___Traffic Lights.csproj", "{0F7D7379-D87F-4EF5-85CE-117E077AC61F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05___BarrackWars_Return", "05___BarrackWars_Return\05___BarrackWars_Return.csproj", "{A9ACD595-3E67-4945-8CE5-E047CB8FF66F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07___Inferno Infinity", "07___Inferno Infinity\07___Inferno Infinity.csproj", "{D4ED4F1C-C36E-4C39-9E43-E3B6F5C84A81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06___Traffic Lights", "06___Traffic Lights\06___Traffic Lights.csproj", "{0F7D7379-D87F-4EF5-85CE-117E077AC61F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08___Create Custom Class", "08___Create Custom Class\08___Create Custom Class.csproj", "{98582A23-45A8-4B5A-B9AE-E22FFF410B7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07___Inferno Infinity", "07___Inferno Infinity\07___Inferno Infinity.csproj", "{D4ED4F1C-C36E-4C39-9E43-E3B6F5C84A81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08___Create Custom Class", "08___Create Custom Class\08___Create Custom Class.csproj", "{98582A23-45A8-4B5A-B9AE-E22FFF410B7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{D150B482-46EB-4963-A135-6DEDDD2DDA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D150B482-46EB-4963-A135-6DEDDD2DDA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D150B482-46EB-4963-A135-6DEDDD2DDA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CF297F-68B4-4153-9FBF-1EC842355135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CF297F-68B4-4153-9FBF-1EC842355135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CF297F-68B4-4153-9FBF-1EC842355135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CF297F-68B4-4153-9FBF-1EC842355135}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5D164A92-8AE1-4FC0-9651-741BCB5E5858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5D164A92-8AE1-4FC0-9651-741BCB5E5858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D164A92-8AE1-4FC0-9651-741BCB5E5858}.Release|Any CPU.ActiveCfg = Release|Any CPU
