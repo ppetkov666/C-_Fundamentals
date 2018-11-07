@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Exercise_08_tasks\\03___BarrackWars_F\\03___BarrackWars_F.csproj",
-      "projectName": "03___BarrackWars_F",
-      "projectPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Exercise_08_tasks\\03___BarrackWars_F\\03___BarrackWars_F.csproj",
+      "projectUniqueName": "C:\\Users\\predator\\Desktop\\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\\P03_BarraksWars\\P03_BarraksWars\\P03_BarraksWars.csproj",
+      "projectName": "P03_BarraksWars",
+      "projectPath": "C:\\Users\\predator\\Desktop\\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\\P03_BarraksWars\\P03_BarraksWars\\P03_BarraksWars.csproj",
       "packagesPath": "C:\\Users\\predator\\.nuget\\packages\\",
-      "outputPath": "F:\\06___VS\\GITHUB\\GIT_PUSHED\\C_Sharp_Fundamentals\\03___C#_OOP_ADVANCED\\1___Labs_And_Exercises\\04___Reflection and Attributes - Exercise_08_tasks\\03___BarrackWars_F\\obj\\",
+      "outputPath": "C:\\Users\\predator\\Desktop\\04. CSharp-OOP-Advanced-Reflection-And-Attributes-Exercises-Resources\\P03_BarraksWars\\P03_BarraksWars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
