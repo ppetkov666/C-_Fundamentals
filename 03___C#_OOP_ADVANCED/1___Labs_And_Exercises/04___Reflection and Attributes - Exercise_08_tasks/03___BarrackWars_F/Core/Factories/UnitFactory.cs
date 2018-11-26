@@ -5,10 +5,16 @@
 
     public class UnitFactory : IUnitFactory
     {
+        private const string NamespaceAsString = "_03BarracksFactory.Models.Units";
         public IUnit CreateUnit(string unitType)
         {
-            //TODO: implement for Problem 3
-            throw new NotImplementedException();
+             Type classType = Type.GetType($"{NamespaceAsString}.{unitType}");
+            if (classType == null)
+            {
+                return null;
+            }
+
+            return (IUnit)Activator.CreateInstance(classType);
         }
     }
 }
