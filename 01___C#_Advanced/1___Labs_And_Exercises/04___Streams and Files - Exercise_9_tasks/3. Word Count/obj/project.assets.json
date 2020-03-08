@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\9. HTTP Server\\9. HTTP Server.csproj",
-      "projectName": "9. HTTP Server",
-      "projectPath": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\9. HTTP Server\\9. HTTP Server.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\3. Word Count\\3. Word Count.csproj",
+      "projectName": "3. Word Count",
+      "projectPath": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\3. Word Count\\3. Word Count.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\9. HTTP Server\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\3. Word Count\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

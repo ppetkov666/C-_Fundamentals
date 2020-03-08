@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\9. HTTP Server\\9. HTTP Server.csproj",
-      "projectName": "9. HTTP Server",
-      "projectPath": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\9. HTTP Server\\9. HTTP Server.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\4. Copy Binary File\\4. Copy Binary File.csproj",
+      "projectName": "4. Copy Binary File",
+      "projectPath": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\4. Copy Binary File\\4. Copy Binary File.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\9. HTTP Server\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\git\\C_Sharp_Fundamentals\\01___C#_Advanced\\1___Labs_And_Exercises\\04___Streams and Files - Exercise_9_tasks\\4. Copy Binary File\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

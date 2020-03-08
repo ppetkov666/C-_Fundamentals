@@ -9,9 +9,9 @@
         {
 
             var inputFile = "../Resources/copyMe.png";
-            using (var reader = new FileStream(inputFile, FileMode.Open))
+            using (FileStream reader = new FileStream(inputFile, FileMode.Open))
             {
-                using (var writer = new FileStream("output.txt", FileMode.Create))
+                using (FileStream writer = new FileStream("output.txt", FileMode.Create))
                 {
                     var buffer = new byte[4096];
 
